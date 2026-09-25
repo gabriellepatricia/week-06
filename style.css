@@ -1,46 +1,81 @@
 body { 
-	background-color:#EEDC82; 
+    background-color: #EEDC82; 
 }
 
 h1 { 
-	color:#3F2112; 
-	text-align:center;
-	font-size:50pt;
-	font-weight:normal;
-	font-family:sans-serif;
-	font-style:italic;
+    color: #3F2112;
+    text-align: center;
+    font-size: 50pt;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-style: italic;
 }
 
 h2 { 
-	color:#3F2112; 
-	text-align:center;
-	font-size:40pt;
-	font-weight:normal;
-	font-family:sans-serif;
-	font-style:italic;
+    color: #3F2112;
+    text-align: center;
+    font-size: 40pt;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-style: italic;
 }
-.kanan {text-align: right;}
-.kiri {text-align: left;}
-.tengah {text-align: center;}
 
-.bgpink { background-color: #FFB6C1; }      
-.bggreen { background-color: #A8E6CF; }     
-.bgyellow { background-color: #FFD56B; }   
-.bgblue { background-color: #A0C4FF; }     
-.bgpurple { background-color: #D8B4F8; }   
-.bgorange { background-color: #FFC09F; }    
-.bgred { background-color: #FF8B94; }      
-.bgcyan { background-color: #9BF6FF; }     
-.bgteal { background-color: #B2F7EF; }
+.kanan {
+    text-align: right;
+}
+
+.kiri {
+    text-align: left;
+}
+
+.tengah {
+    text-align: center;
+}
+
+.bgpink {
+    background-color: #FFB6C1;
+}
+
+.bggreen {
+    background-color: #A8E6CF;
+}
+
+.bgyellow {
+    background-color: #FFD56B;
+}
+
+.bgblue {
+    background-color: #A0C4FF;
+}
+
+.bgpurple {
+    background-color: #D8B4F8;
+}
+
+.bgorange {
+    background-color: #FFC09F;
+}
+
+.bgred {
+    background-color: #FF8B94;
+}
+
+.bgcyan {
+    background-color: #9BF6FF;
+}
+
+.bgteal {
+    background-color: #B2F7EF;
+}
 
 p { 
-	color:#2B3D52; 
-	background-color:pink;
-	padding:0.6em;
-	margin:auto;
-	margin-bottom:2em;
-	text-align:right;
-	border:4px dashed blacl;
-	width:50%;
-	min-width:40em;
-} 
+    color: #2B3D52;
+    background-color: pink;
+    padding: 0.6em;
+    margin: auto;
+    margin-bottom: 2em;
+    text-align: right;
+    border: 4px dashed black;
+    width: 50%;
+    min-width: 40em;
+}
