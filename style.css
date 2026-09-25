@@ -23,6 +23,16 @@ h2 {
 .kiri {text-align: left;}
 .tengah {text-align: center;}
 
+.bgpink { background-color: #FFB6C1; }      
+.bggreen { background-color: #A8E6CF; }     
+.bgyellow { background-color: #FFD56B; }   
+.bgblue { background-color: #A0C4FF; }     
+.bgpurple { background-color: #D8B4F8; }   
+.bgorange { background-color: #FFC09F; }    
+.bgred { background-color: #FF8B94; }      
+.bgcyan { background-color: #9BF6FF; }     
+.bgteal { background-color: #B2F7EF; }
+
 p { 
 	color:#2B3D52; 
 	background-color:pink;
