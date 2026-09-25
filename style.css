@@ -1,4 +1,36 @@
-body { background-color:#EEDC82; }
-h1 { color:#3F2112; }
-h2 { color:#3F2112; }
-p { color:#2B3D52; }
+body { 
+	background-color:#EEDC82; 
+}
+
+h1 { 
+	color:#3F2112; 
+	text-align:center;
+	font-size:50pt;
+	font-weight:normal;
+	font-family:sans-serif;
+	font-style:italic;
+}
+
+h2 { 
+	color:#3F2112; 
+	text-align:center;
+	font-size:40pt;
+	font-weight:normal;
+	font-family:sans-serif;
+	font-style:italic;
+}
+.kanan {text-align: right;}
+.kiri {text-align: left;}
+.tengah {text-align: center;}
+
+p { 
+	color:#2B3D52; 
+	background-color:pink;
+	padding:0.6em;
+	margin:auto;
+	margin-bottom:2em;
+	text-align:right;
+	border:4px dashed blacl;
+	width:50%;
+	min-width:40em;
+} 
